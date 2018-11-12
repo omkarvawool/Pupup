@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#BC8F8F</color>
+    <color name="colorPrimaryDark">#b58969</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="pupupbrown">#96572A</color>
+    <color name="pupbrownlight">#a0673f</color>
+    <color name="pupskin">#a0673f</color>
+</resources>
